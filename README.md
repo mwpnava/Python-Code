@@ -10,5 +10,5 @@ To run Python scripts, there are these ways:
 4. The file manager of your system, by double-clicking on the icon of your script
 
 
-## Authors
+### Author
 [Wendy Navarrete](http://wendynavarrete.com)
