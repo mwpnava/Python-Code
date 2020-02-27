@@ -1,4 +1,4 @@
-# PythonCode
+# Python Code
 This repository contains Python code to solve easy and medium problems. It is recommended for people who want to learn a new programming language or simply enjoy to discover a different ways to code.
 
 ### Prerequisites
