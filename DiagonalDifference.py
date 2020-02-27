@@ -1,4 +1,12 @@
 def diagonalDifference(arr):
+
+    '''
+    Given a square matrix, this function calculates the absolute difference
+    between the sums of its diagonals.
+    Param: 2D Array (The matrix)
+    Return: An integer (The result of sums of matrix's diagonals)
+    '''
+
     sum1,sum2 = 0,0
     i2 = len(arr) -1
 
