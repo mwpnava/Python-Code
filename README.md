@@ -2,7 +2,7 @@
 This repository contains Python code to solve easy and medium problems. It is recommended for people who want to learn a new programming language or simply enjoy to discover a different ways to code.
 
 ### Prerequisites
-To run Python scripts, there are these ways:
+To run Python scripts:
 
 1. The operating system command-line or terminal
 2. The Python interactive mode
