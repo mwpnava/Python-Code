@@ -21,4 +21,4 @@ def staircase(n):
 
 
 #Testing function
-staircase(15)
+staircase(100)
