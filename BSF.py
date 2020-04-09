@@ -1,5 +1,5 @@
 '''
-Implementin a BFS (​breadth-first search) in Python
+Implementing a BFS (​breadth-first search) in Python
 '''
 
 tree = {
@@ -12,7 +12,7 @@ tree = {
   'G' : ['I','H'],
   'I' : [],
   'L' : [],
-  'H' : [] 
+  'H' : []
 }
 
 
